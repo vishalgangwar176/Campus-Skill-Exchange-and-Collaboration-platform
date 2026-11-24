@@ -328,13 +328,30 @@ The sidebar includes an **Instant Demo Persona Switcher** designed for reviewers
 
 ### 👥 Project Team (Group 88)
 
-| Student Name | ERP ID / Roll No. | Role |
+| Student Name | ERP ID / Roll No. | Key Responsibility |
 |---|---|---|
-| **Vikas Pal** | `2501330100408` | Frontend Developer & Contributor |
-| **Vinayak Dev Tiwari** | `2501330100409` | Team Member |
-| **Tanay Dubey** | `2501330100387` | Team Member |
-| **Vishal Gangwar** | `2501330100410` | Team Member |
-| **Urvashi Anand** | `2501330100394` | Team Member |
+| **Vikas Pal** | `2501330100408` | Frontend Development and Application Design |
+| **Tanay Dubey** | `2501330100387` | Requirement Analysis and Feature Planning |
+| **Vinayak Dev Tiwari** | `2501330100409` | System Design and OOTS Concept Mapping |
+| **Urvashi Anand** | `2501330100394` | Research and Documentation |
+| **Vishal Gangwar** | `2501330100410` | Repository Management and Integration |
+
+### 📝 Team Member Contributions & Roles
+
+1. **Tanay Dubey** – *Requirement Analysis and Feature Planning*  
+   Contributed to problem analysis, identification of student requirements, defining the platform's core features, and planning and refining the skill-exchange workflow.
+
+2. **Vinayak Dev Tiwari** – *System Design and OOTS Concept Mapping*  
+   Contributed to project planning, requirement analysis, system design, application logic analysis, and mapping relevant Object-Oriented Techniques concepts to the project.
+
+3. **Urvashi Anand** – *Research and Documentation*  
+   Contributed to the literature review, analysis of the problem domain, identification of core entities such as Student, Skill and Exchange Request, and preparation and review of project documentation.
+
+4. **Vikas Pal** – *Frontend Development and Application Design*  
+   Contributed to application interface design, frontend development, implementation of user interface components, and development of the platform's core workflows.
+
+5. **Vishal Gangwar** – *Repository Management and Integration*  
+   Contributed to project organisation, GitHub repository management, coordination and integration of project components, and collection of implementation evidence.
 
 ---
 
