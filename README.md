@@ -338,9 +338,19 @@ The sidebar includes an **Instant Demo Persona Switcher** designed for reviewers
 
 ---
 
-## 👤 Contributors
+## 👤 Contributor
 
-- **Vikas Pal** ([GitHub Profile](https://github.com/vishalgangwar176)) — Lead Frontend Developer & Project Contributor
+<p align="left">
+  <a href="https://github.com/Vikaspal505">
+    <img src="https://github.com/Vikaspal505.png" width="90" height="90" style="border-radius: 50%; margin-right: 15px;" alt="Vikas Pal" />
+  </a>
+</p>
+
+- **Name**: **Vikas Pal**
+- **GitHub**: [@Vikaspal505](https://github.com/Vikaspal505)
+- **Roll No. / ERP ID**: `2501330100408`
+- **Role**: Lead Frontend Developer & UI/UX Architect
+- **Contributions**: Complete Frontend Engineering, React Component Architecture, Tailwind Design System, Interactive State Management & LocalStorage Persistence
 
 ---
 
