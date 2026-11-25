@@ -89,7 +89,6 @@ The frontend is built with **React 18**, **Vite**, and **Tailwind CSS**, styled 
 └────────────────────────────────────────────────────────┘
 ```
 
----
 
 ## ✨ Key Features
 
